@@ -1,0 +1,6 @@
+streamlit
+pytubefix
+groq
+fastapi
+uvicorn
+python-dotenv
