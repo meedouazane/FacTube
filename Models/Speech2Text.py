@@ -2,7 +2,6 @@
 """
 Speech to text module
 """
-from pytubefix.cli import on_progress
 import io
 from pytubefix import YouTube
 from groq import Groq
@@ -18,7 +17,7 @@ def extract_audio_from_youtube(url):
     :param url: url of the video
     :return: the path of audio file
     """
-    yt = YouTube(url, on_progress_callback = on_progress)
+    yt = YouTube(url, use_po_token=True)
     stream = yt.streams.filter(only_audio=True).first()
     audio_buffer = io.BytesIO()
     stream.stream_to_buffer(audio_buffer)
