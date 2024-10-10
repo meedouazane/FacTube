@@ -1,5 +1,5 @@
 streamlit
-yt-dlp
+pytubefix
 groq
 fastapi
 uvicorn
