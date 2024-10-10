@@ -19,6 +19,7 @@ Welcome to [**FacTube**](https://truedetective.com), In today's digital age, ext
 * Run pip to install dependence : `pip3 install -r requirements.txt`
 * Sign up at [**Groq**](https://groq.com/) to obtain an API key for Free.
 * You can either set the environment variable in your terminal  `export GROQ_API_KEY="YOUR_KEY"` or store it in a .env file.
+* Run setup to install ffmpeg for Linux: `bash setup.sh` for Windows you can download and install it from [**ffmpeg**](https://www.ffmpeg.org/download.html) 
 * Run app.py: `stramlit FacTube.py`
 * web app will be running on http://localhost:8501/
 
