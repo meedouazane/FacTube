@@ -44,7 +44,8 @@ Misinformation Check
 1. Copy and Paste the YouTube Video URL: Locate the URL of the YouTube video you want to check for misinformation. Paste the URL into the designated field on the True Detective website.
 2. Submit the URL: Once you've pasted the URL, click the "Submit" button. True Detective will then initiate the fact-checking process.
 3. Review the Results: FacTube will analyze the video and provide you with a report on any potential misinformation it detects.
-![check](https://i.ibb.co/jD2NLJ4/Checkin.png)
+![check](https://i.ibb.co/VtWHymS/1.png)
+![check](https://i.ibb.co/6F8xr2c/2.png)
 
 
 # Deployment
@@ -55,9 +56,9 @@ Mohamed Ouazane - Back-end developer and Project manager [Github](https://github
 
 # Related projects
 
-* [AirBnB Clone](https://github.com/meedouazane/AirBnB_clone_v4): a simple web app made in Python, Flask, and JQuery.
+* [Tomato Disease Detection](https://github.com/meedouazane/Tomato_Disease_Detection): A deep learning-based model designed to accurately identify and classify various tomato diseases from images of infected leaves. Leveraging advanced techniques like convolutional neural networks (CNNs).
 
-* [Landing page for HB](https://github.com/meedouazane/landing_page_HB): a landing page for Healthy body web app made in CSS and HTML.
+* [Suggesti](https://github.com/meedouazane/Suggesti): Suggesti is a chatbot that provides movie and TV series recommendations based on a user-provided title. It uses cosine similarity to compare various attributes (genres, ratings, etc.) and is powered by Dialogflow to manage the conversational interface.
 
 # Contributing
 [ALX](https://intranet.alxswe.com/) and [Holberton School](https://www.holbertonschool.com/) (Staff and Students)
