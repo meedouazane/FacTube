@@ -17,7 +17,7 @@ def extract_audio_from_youtube(url):
     :param url: url of the video
     :return: the path of audio file
     """
-    yt = YouTube(url, use_po_token=True)
+    yt = YouTube(url, use_po_token=False)
     stream = yt.streams.filter(only_audio=True).first()
     audio_buffer = io.BytesIO()
     stream.stream_to_buffer(audio_buffer)
