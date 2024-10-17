@@ -31,11 +31,11 @@ Streamlit: an open-source Python framework for data scientists and AI/ML enginee
 
 Back-end Technologies:
 
-Python:  high-level, general-purpose programming language known for its readability and simplicity.  
-FastApi:  web framework for building HTTP-based service APIs in Python 3.8+. It uses Pydantic and type hints to validate, serialize and deserialize data.  
-llama-3.1-70b-versatile: openly available model that rivals the top AI models when it comes to state-of-the-art capabilities in general knowledge, steerability, math, tool use, and multilingual translation.  
-whisper-large-v3: general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model.  
-Pytube: a lightweight, Pythonic, dependency-free, library (and command-line utility) for downloading YouTube Videos.
+* Python:  high-level, general-purpose programming language known for its readability and simplicity.  
+* FastApi:  web framework for building HTTP-based service APIs in Python 3.8+. It uses Pydantic and type hints to validate, serialize and deserialize data.  
+* llama-3.1-70b-versatile: openly available model that rivals the top AI models when it comes to state-of-the-art capabilities in general knowledge, steerability, math, tool use, and multilingual translation.  
+* whisper-large-v3: general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model.  
+* Pytube: a lightweight, Pythonic, dependency-free, library (and command-line utility) for downloading YouTube Videos.
 
 # Usage
 Welcome to our user-friendly platform! Let's walk through the seamless process of optimizing your video with our features.
